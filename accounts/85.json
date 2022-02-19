@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "praxis-life-336806",
+  "private_key_id": "d5ec45b89f8b57deefcb5b05731e47c2ca4bf739",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQDM7JKuuM5j8OWm\nJRAxWTczmCUTo0iaBMgwTPXbKJxs0lNn8vzsajObj7n0DytyGhEdFodmZNvX7OVf\n1NWxGC/sFsib7orlwQ7UD3RSoaiZLmwjz4gn2ucCbqSfiXOlkcWNPkpoN9ecPSsD\nH4gJ2EC5/AE31BsarB1KuWPD6wSALnP+5gQ9FYYkjCdJ94qk06qMyUbCLaBUYGIm\nY+tOBOs7Ky3pTT6V+ghkaeW+obwds3NVbyGpVFKJP65S889rSjDgCteQ1GR3RxK2\ndIzIL5nHgQpKGUWErhO7XLN0p0Fdr9aifHAr+vwH9ES/azsCBTPIYhFZWZO8lKLo\ntDA0QH5fAgMBAAECggEAYxdghJl7v8sMmW8hqeM8tLe08g6KfGOkk+qbFitInLyF\ntWXD1OQz6VyyLCirtwSQ0vKCbcqGnh6A+fqWjIioH68SuYg7ZQcaTwPcGVrvhoby\npsxjR/Zrr3rmIvkZ0W2wS/DblRKvsW7Inj2AkFYgUm7f/emUY6zniysjaWj7J6mx\nScXr3UKDs9BQKqrZ4xXiLzhqIdigl0bILEhsgbR8SR0l8qFmoQXLjAN7hXg2GoAp\ndr7J6mXsJXdEa6iTVzL3JrnF+Wez0F7P6ML2euZhmX1zRVs2iZcGIKrlvfipm8Hg\ngtWNXFvoFYh23/JeNWruUznUw6hTPswqafnkQzduCQKBgQDnvjF++gDPK+lwFBrE\nkgaOVNvuWflTDXnLS3V+XkKFazm9xwRRbJLR6NP2e9Q/VxcXtcL3wMdlSGuwsNvY\nkSKl0qd6GnG/pgI4GPsIKHiXpzfvJmX6pSPv5fpcioF+alqOwXUPksMupFcfAMCZ\ngxZAbgMY7qPFy+caKN9QD8AVuQKBgQDiX71ZTa0mPJvhuMKh6H1knzWStn/ehsy+\nY5isgJilXb00Tx+ucZkZSCfxR+by9xoFhxrZVOIx81fmQ4TYaVtn7ltLHZXFx5ky\nCkSXnNYNdOx89pBeFrBCSFHP+HRjrX1e0K6lRHKtGe/XCD6FHGtiWGLz9jsbRF42\nmxDE2IBA1wKBgAMMT15aL3SKIVHmEcwQF6H7n8Ds0giznqx725nD56AVnvbODVJ8\n2RmFtHQDgPEsVhNrwpq7oGPGphP2341jq07/DFDg1CovJsxSF8strRhhjKzKloDL\nd0OKhNZ+w+FDyNkj1kRUK9kLNFImEmJyhPJoAAZt7R2G5w1DCFznOCGRAoGBAKC5\nfxPf3bcPQ1IRP0d7bUQ68euX3dPd+5KV3jlkGH0YwBRatVDC4QOdQpbCCUyqevQ/\nx6VU6kCy2M7pU3Hf5AE3r+P2PnetTqzDs4290hC92oai/T+AdmapOEUjz2dSL3hZ\nTBaVMaKLjskq1lDmK6wouyEhyzeB5C57DH3mhbEDAoGAdU5PNkEV8KIzKzp82umC\n4Ftb9QGHi1YgpjGcinWPOMYAbJPLpY1c4EaghygtzDzvNk3o6W6TBCqwWyHvI0IP\nBFdi+mCHzSBAaDBtYw8cBE+VlYC/ikp3zjQNUPIy3E16O2LszBwH/kVMvIkQOaCd\nWFQfOsuQ4R6AgxhCuLCE4lA=\n-----END PRIVATE KEY-----\n",
+  "client_email": "mfc-yey-mmlwfnxby-fpdbcmk0vz3k@praxis-life-336806.iam.gserviceaccount.com",
+  "client_id": "103289739690182494362",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/mfc-yey-mmlwfnxby-fpdbcmk0vz3k%40praxis-life-336806.iam.gserviceaccount.com"
+}
